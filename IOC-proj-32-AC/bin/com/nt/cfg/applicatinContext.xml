@@ -6,5 +6,5 @@
 	
 	<bean id ="wmg" class="com.nt.bean.WishMessage"/>
 	
-	
+	<bean id ="wmggggg" class="com.nt.bean.WishMessage"/>
 	</beans>
